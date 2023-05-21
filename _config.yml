@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Wenyu Chen"
   avatar           : "/assets/images/PHOTO.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "A PhD interested in finance, machine learning, statistics, and optimization."
   location         : "Cambridge, MA, USA"
   email            :
   links:
@@ -134,6 +134,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=rgSZ0zYAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0007-7952-7735"
 
 # Site Footer
 footer:
@@ -297,3 +300,4 @@ defaults:
       share: true
       related: true
       mathjax: true
+      pygments: true
