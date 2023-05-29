@@ -9,28 +9,30 @@ author_profile: true
 A list of publications can also be found at: [Google Scholar](https://scholar.google.com/citations?hl=en&user=rgSZ0zYAAAAJ).
 
 ## Preprints/Papers Under Review
-- A new computational framework for log-concave density estimation \[[paper](https://arxiv.org/pdf/2105.11387.pdf)\] \[[code](https://github.com/wenyuC94/LogConcComp)\] 
+- A new computational framework for log-concave density estimation \[[paper](https://arxiv.org/pdf/2105.11387.pdf)\] \[[code](https://github.com/wenyuC94/LogConcComp "LogConcComp")\] 
     <div style="margin-bottom: -10px;"></div>
     - <small> **Wenyu Chen**, Rahul Mazumder and Richard J. Samworth (2021) </small>
-- Subgradient Regularized Multivariate Convex Regression at Scale \[[paper](https://arxiv.org/pdf/2005.11588.pdf)\] \[[code](https://github.com/wenyuC94/ConvexRegression)\] 
+- Subgradient Regularized Multivariate Convex Regression at Scale \[[paper](https://arxiv.org/pdf/2005.11588.pdf)\] \[[code](https://github.com/wenyuC94/ConvexRegression "ConvexRegression")\] 
     <div style="margin-bottom: -10px;"></div>
     - <small> **Wenyu Chen** and Rahul Mazumder (2020)
 
 
 ## Peer Reviewed Conference Articles
-<!-- - COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search \[paper\]
+<!-- - COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search \[[paper]()\] \[[code](#COMET-code "COMET and COMET-BERT")\]
     <div style="margin-bottom: -10px;"></div>
     - <small>  Shibal Ibrahim, **Wenyu Chen**, Hussein Hazimeh, Natalia Ponomareva, Zhe Zhao and Rahul Mazumder  </small>
     <div style="margin-bottom: -10px;"></div>
-    - <small> To appear in the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**)  </small> -->
+    - <small> To appear in the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**)  </small>
+    <div style="margin-bottom: -10px;"></div>
+    - <small> <a name="COMET-code"></a>Source code: [COMET](https://github.com/mazumder-lab/COMET "COMET"), [COMET-BERT](https://github.com/mazumder-lab/COMET-BERT "COMET-BERT")  </small> -->
 
-- Fast as CHITA: Neural Network Pruning with Combinatorial Optimization \[[paper](https://arxiv.org/pdf/2302.14623.pdf)\] 
+- Fast as CHITA: Neural Network Pruning with Combinatorial Optimization \[[paper](https://arxiv.org/pdf/2302.14623.pdf)\] \[[code](https://github.com/mazumder-lab/CHITA "CHITA")\]
     <div style="margin-bottom: -10px;"></div>
     - <small>  Riade Benbaki, **Wenyu Chen**, Xiang Meng, Hussein Hazimeh, Natalia Ponomareva, Zhe Zhao and Rahul Mazumder </small>
     <div style="margin-bottom: -10px;"></div>
     - <small> To appear in the 40th International Conference on Machine Learning (**ICML 2023**)  </small>
 
-- Knowledge Graph Guided Simultaneous Forecasting and Network Learning for Multivariate Financial Time Series \[[paper](https://dl.acm.org/doi/10.1145/3533271.3561702)\] \[[code](https://github.com/ShibalIbrahim/GREGNETS)\]
+- Knowledge Graph Guided Simultaneous Forecasting and Network Learning for Multivariate Financial Time Series \[[paper](https://dl.acm.org/doi/10.1145/3533271.3561702)\] \[[code](https://github.com/ShibalIbrahim/GREGNETS "GregNets")\]
     <div style="margin-bottom: -10px;"></div>
     - <small> Shibal Ibrahim, **Wenyu Chen**, Yada Zhu, Yang Zhang, Pin-yu Chen and Rahul Mazumder </small>
     <div style="margin-bottom: -10px;"></div>
