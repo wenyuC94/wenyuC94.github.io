@@ -12,21 +12,24 @@ A list of publications can also be found at: [Google Scholar](https://scholar.go
 - A new computational framework for log-concave density estimation \[[paper](https://arxiv.org/pdf/2105.11387.pdf)\] \[[code](https://github.com/wenyuC94/LogConcComp "LogConcComp")\] 
     <div style="margin-bottom: -10px;"></div>
     - <small> **Wenyu Chen**, Rahul Mazumder and Richard J. Samworth (2021) </small>
-- Subgradient Regularized Multivariate Convex Regression at Scale \[[paper](https://arxiv.org/pdf/2005.11588.pdf)\] \[[code](https://github.com/wenyuC94/ConvexRegression "ConvexRegression")\] 
+- <a name="CvxReg"></a>Subgradient Regularized Multivariate Convex Regression at Scale \[[paper](https://arxiv.org/pdf/2005.11588.pdf)\] \[[code](https://github.com/wenyuC94/ConvexRegression "ConvexRegression")\] 
     <div style="margin-bottom: -10px;"></div>
-    - <small> **Wenyu Chen** and Rahul Mazumder (2020)
-
+    - <small> **Wenyu Chen** and Rahul Mazumder (2020) </small>
+{% comment %}
+    <div style="margin-bottom: -10px;"></div>
+    - <small> To appear in SIAM Journal of Optimization</small>
+{% endcomment %}
 
 ## Peer Reviewed Conference Articles
-<!-- - COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search \[[paper]()\] \[[code](#COMET-code "COMET and COMET-BERT")\]
+- <a name="COMET"></a>COMET: Learning Cardinality Constrained Mixture of Experts with Trees and Local Search \[[paper]()\] \[[code](#COMET-code "COMET and COMET-BERT")\]
     <div style="margin-bottom: -10px;"></div>
     - <small>  Shibal Ibrahim, **Wenyu Chen**, Hussein Hazimeh, Natalia Ponomareva, Zhe Zhao and Rahul Mazumder  </small>
     <div style="margin-bottom: -10px;"></div>
     - <small> To appear in the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**)  </small>
     <div style="margin-bottom: -10px;"></div>
-    - <small> <a name="COMET-code"></a>Source code: [COMET](https://github.com/mazumder-lab/COMET "COMET"), [COMET-BERT](https://github.com/mazumder-lab/COMET-BERT "COMET-BERT")  </small> -->
+    - <small> <a name="COMET-code"></a>Source code: [COMET](https://github.com/mazumder-lab/COMET "COMET"), [COMET-BERT](https://github.com/mazumder-lab/COMET-BERT "COMET-BERT")  </small>
 
-- Fast as CHITA: Neural Network Pruning with Combinatorial Optimization \[[paper](https://arxiv.org/pdf/2302.14623.pdf)\] \[[code](https://github.com/mazumder-lab/CHITA "CHITA")\]
+- <a name="CHITA"></a>Fast as CHITA: Neural Network Pruning with Combinatorial Optimization \[[paper](https://arxiv.org/pdf/2302.14623.pdf)\] \[[code](https://github.com/mazumder-lab/CHITA "CHITA")\]
     <div style="margin-bottom: -10px;"></div>
     - <small>  Riade Benbaki, **Wenyu Chen**, Xiang Meng, Hussein Hazimeh, Natalia Ponomareva, Zhe Zhao and Rahul Mazumder </small>
     <div style="margin-bottom: -10px;"></div>
