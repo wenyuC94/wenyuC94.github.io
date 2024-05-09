@@ -12,10 +12,12 @@ I received my PhD degree in Operation Research from the [MIT](http://mit.edu/) [
 
 ## News
 
+- **Apr 2024:** Our paper on [log-concave density computation](/research/#LCD "Log-concave Density Estimation") is published on Mathematical Programming Computation!
+- **Jan 2023:** Our paper on [FLOP-aware network pruning](/research/#FALCON "FLOP-aware network pruning") is accepted by AISTATS2024!
 - **June 2023:** I receive my doctoral degree in Operation Research from MIT!
 - **May 2023:** Our paper on [sparse Mixture-of-Experts](/research/#COMET "COMET") is accepted by KDD 2023!
 - **May 2023:** Our paper on [neural network pruning using combinatorial optimization](/research/#CHITA "CHITA") is accepted by ICML2023!
-<!-- - **May 2023:** Our paper on [subgradient regularzied convex regression](/research/#CvxReg "Convex Regression") is accepted by SIAM Journal of Optimization! -->
+- **May 2023:** Our paper on [subgradient regularzied convex regression](/research/#CvxReg "Convex Regression") is accepted by SIAM Journal of Optimization!
 
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cn3fQ9Wb-snE-ir3BfO5aesZNAPtsJcryt6wWNOp210&cl=ffffff&w=a"></script> -->
